@@ -1,0 +1,6 @@
+Problem :- Check Eligibility for Voting 
+Think you are working Election conducting survey company now you have to
+write a java program that take the age and checks they are eligible for voting are not
+
+Your Task Is:-Write it using in separate class with non-static method
+which will take Age as parameter but not return any value
